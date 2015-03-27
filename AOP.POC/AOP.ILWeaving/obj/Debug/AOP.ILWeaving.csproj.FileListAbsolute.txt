@@ -1,0 +1,10 @@
+D:\MyWork\AOPDemo\AOP.POC\AOP.ILWeaving\bin\Debug\AOP.ILWeaving.exe.config
+D:\MyWork\AOPDemo\AOP.POC\AOP.ILWeaving\bin\Debug\AOP.ILWeaving.exe
+D:\MyWork\AOPDemo\AOP.POC\AOP.ILWeaving\bin\Debug\AOP.ILWeaving.pdb
+D:\MyWork\AOPDemo\AOP.POC\AOP.ILWeaving\obj\Debug\AOP.ILWeaving.csprojResolveAssemblyReference.cache
+D:\MyWork\AOPDemo\AOP.POC\AOP.ILWeaving\obj\Debug\AOP.ILWeaving.exe
+D:\MyWork\AOPDemo\AOP.POC\AOP.ILWeaving\obj\Debug\AOP.ILWeaving.pdb
+D:\MyWork\AOPDemo\AOP.POC\AOP.ILWeaving\bin\Debug\PostSharp.dll
+D:\MyWork\AOPDemo\AOP.POC\AOP.ILWeaving\bin\Debug\PostSharp.xml
+D:\MyWork\AOPDemo\AOP.POC\AOP.ILWeaving\bin\Debug\AOP.ILWeaving.pssym
+D:\MyWork\AOPDemo\AOP.POC\AOP.ILWeaving\obj\Debug\AOP.ILWeaving.exe.postsharp

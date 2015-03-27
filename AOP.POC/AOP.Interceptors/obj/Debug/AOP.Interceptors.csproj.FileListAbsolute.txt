@@ -1,0 +1,10 @@
+D:\MyWork\AOPDemo\AOP.POC\AOP.Interceptors\bin\Debug\AOP.Interceptors.exe.config
+D:\MyWork\AOPDemo\AOP.POC\AOP.Interceptors\bin\Debug\AOP.Interceptors.exe
+D:\MyWork\AOPDemo\AOP.POC\AOP.Interceptors\bin\Debug\AOP.Interceptors.pdb
+D:\MyWork\AOPDemo\AOP.POC\AOP.Interceptors\obj\Debug\AOP.Interceptors.csprojResolveAssemblyReference.cache
+D:\MyWork\AOPDemo\AOP.POC\AOP.Interceptors\obj\Debug\AOP.Interceptors.exe
+D:\MyWork\AOPDemo\AOP.POC\AOP.Interceptors\obj\Debug\AOP.Interceptors.pdb
+D:\MyWork\AOPDemo\AOP.POC\AOP.Interceptors\bin\Debug\Castle.Core.dll
+D:\MyWork\AOPDemo\AOP.POC\AOP.Interceptors\bin\Debug\Castle.Windsor.dll
+D:\MyWork\AOPDemo\AOP.POC\AOP.Interceptors\bin\Debug\Castle.Core.xml
+D:\MyWork\AOPDemo\AOP.POC\AOP.Interceptors\bin\Debug\Castle.Windsor.xml

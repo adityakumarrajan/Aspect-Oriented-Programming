@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOP.Interceptors", "AOP.Interceptors\AOP.Interceptors.csproj", "{E418C13D-B38B-4212-BA0E-FF0E6888D80B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOP.ILWeaving", "AOP.ILWeaving\AOP.ILWeaving.csproj", "{729B49EB-A57F-48A3-B7DE-0D95257DCF47}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6E792B17-FE32-4762-A0AD-69AA1EB0ACE3}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOP.UnityInterceptors", "AOP.UnityInterceptors\AOP.UnityInterceptors\AOP.UnityInterceptors.csproj", "{21FD9327-0527-4596-9097-2C3DA6A261AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E418C13D-B38B-4212-BA0E-FF0E6888D80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E418C13D-B38B-4212-BA0E-FF0E6888D80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E418C13D-B38B-4212-BA0E-FF0E6888D80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E418C13D-B38B-4212-BA0E-FF0E6888D80B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{729B49EB-A57F-48A3-B7DE-0D95257DCF47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{729B49EB-A57F-48A3-B7DE-0D95257DCF47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{729B49EB-A57F-48A3-B7DE-0D95257DCF47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{729B49EB-A57F-48A3-B7DE-0D95257DCF47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21FD9327-0527-4596-9097-2C3DA6A261AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21FD9327-0527-4596-9097-2C3DA6A261AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21FD9327-0527-4596-9097-2C3DA6A261AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21FD9327-0527-4596-9097-2C3DA6A261AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
